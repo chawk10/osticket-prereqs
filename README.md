@@ -31,7 +31,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![Image Alt](https://github.com/chawk10/osticket-prereqs/blob/7b7a1132f560c45d939e28d0c561b931eb783e5f/step%201.png).
+![Alt Text](https://github.com/chawk10/osticketprereqs/blob/7b7a1132f560c45d939e28d0c561b931eb783e5f/step%201.png)
+
 </p>
 <p>
 Step 1: Install IIS (Internet Information Services)
