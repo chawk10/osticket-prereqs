@@ -34,7 +34,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-.
+Step 1: Install IIS (Internet Information Services)
+
+Open Control Panel > Programs > Turn Windows features on or off.
+
+Enable Internet Information Services (IIS).
+
+Expand IIS components and ensure CGI and ISAPI Extensions are selected.
+
+Click OK and restart if necessary.
 </p>
 <br />
 
@@ -42,7 +50,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-.
+
+
+Step 2: Install PHP
+
+Download PHP (recommended version 7.4) from the official PHP website.
+
+Extract PHP files to C:\PHP.
+
+Add C:\PHP to the system environment variable PATH.
+
+Configure php.ini:
+
+Enable required extensions such as mysqli, gd, mbstring.
 </p>
 <br />
 
@@ -50,6 +70,78 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-.
+Step 3: Install MySQL Database
+
+Download and install MySQL Server or MariaDB.
+
+Create a database named osticket.
+
+Create a database user with full privileges on osticket
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 4: Download and Extract osTicket
+
+Download osTicket from osTicket’s official website.
+
+Extract the contents to C:\inetpub\wwwroot\osticket.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 5: Configure IIS for osTicket
+
+Open IIS Manager.
+
+Add a new site with the following details:
+
+Site name: osTicket
+
+Physical path: C:\inetpub\wwwroot\osticket
+
+Binding: http://localhost/osticket
+
+Configure PHP handler mapping in IIS.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+Step 6: Run osTicket Installation Script
+
+Open a web browser and navigate to http://localhost/osticket.
+
+Follow the on-screen installation steps:
+
+Provide database credentials.
+
+Set up the administrator account.
+
+Complete installation.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 7: Final Configuration
+
+Delete the setup directory from C:\inetpub\wwwroot\osticket.
+
+Set file permissions correctly.
+
+Log in to the osTicket admin panel and configure settings as needed.
 </p>
 <br />
