@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![Alt Text](https://github.com/chawk10/osticketprereqs/blob/7b7a1132f560c45d939e28d0c561b931eb783e5f/step%201.png)
+![Alt Text](https://github.com/chawk10/osticket-prereqs/blob/main/step%201.png?raw=true)
 
 </p>
 <p>
