@@ -87,7 +87,9 @@ Create a database user with full privileges on osticket
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image alt](https://github.com/chawk10/osticket-prereqs/blob/main/Step%204.png?raw=true)
+
 </p>
 <p>
 Step 4: Download and Extract osTicket
