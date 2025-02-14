@@ -119,8 +119,9 @@ Configure PHP handler mapping in IIS.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+  
+![image alt](https://github.com/user-attachments/assets/53fc349f-8548-4700-b916-326223acc35f)
+
 <p>
 
 
