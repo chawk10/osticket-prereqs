@@ -139,7 +139,9 @@ Complete installation.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image alt](https://github.com/chawk10/osticket-prereqs/blob/main/Step%207.png?raw=true)
+
 </p>
 <p>
 Step 7: Final Configuration
