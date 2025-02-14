@@ -99,7 +99,9 @@ Extract the contents to C:\inetpub\wwwroot\osticket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image alt](https://github.com/chawk10/osticket-prereqs/blob/main/Step%205.png?raw=true)
+  
 </p>
 <p>
 Step 5: Configure IIS for osTicket
