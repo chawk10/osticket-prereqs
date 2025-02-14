@@ -71,7 +71,9 @@ Enable required extensions such as mysqli, gd, mbstring.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image alt](https://github.com/chawk10/osticket-prereqs/blob/main/Step%203.png?raw=true)
+  
 </p>
 <p>
 Step 3: Install MySQL Database
