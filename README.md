@@ -49,7 +49,8 @@ Click OK and restart if necessary.
 <br />
 
 <p>
-![Image alt](
+  
+![Image alt](https://github.com/chawk10/osticket-prereqs/blob/main/Step%202.png?raw=true)
 
 </p>
 <p>
