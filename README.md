@@ -107,7 +107,7 @@ Site name: osTicket
 
 Physical path: C:\inetpub\wwwroot\osticket
 
-Binding: http://localhost/osticket
+
 
 Configure PHP handler mapping in IIS.
 </p>
@@ -121,7 +121,7 @@ Configure PHP handler mapping in IIS.
 
 Step 6: Run osTicket Installation Script
 
-Open a web browser and navigate to http://localhost/osticket.
+Open a web browser and navigate to https://osticket.com/download/
 
 Follow the on-screen installation steps:
 
